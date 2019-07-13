@@ -1,0 +1,9 @@
+﻿Group: Widgets
+FriendlyName: Yandex Metrics
+SystemName: Widgets.YandexMetrics
+Version: 0.01
+SupportedVersions: 3.90
+Author: Denis Antonenko
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.YandexMetrics.dll
+Description: This plugin integrates with Yandex Metrics. It keeps track of statistics about the visitors and ecommerce conversion on your website
